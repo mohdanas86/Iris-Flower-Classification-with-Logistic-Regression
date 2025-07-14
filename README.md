@@ -98,9 +98,3 @@ Predicted Species: setosa
    ```bash
    jupyter notebook iris_logistic_regression.ipynb
    ```
-
-## Credits
-
-Dataset from `sklearn.datasets.load_iris()` — publicly available and commonly used for beginner classification tasks.
-
-```
