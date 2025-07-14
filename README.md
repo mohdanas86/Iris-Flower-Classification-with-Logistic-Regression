@@ -1,17 +1,10 @@
-Great! Here's a clean and beginner-friendly `README.md` for your **Iris Flower Classification** project using Logistic Regression.
-
----
-
-## 📘 `README.md` for GitHub
-
-````markdown
-# 🌸 Iris Flower Classification with Logistic Regression
+# Iris Flower Classification with Logistic Regression
 
 This beginner machine learning project uses **Logistic Regression** to classify different species of Iris flowers based on their petal and sepal measurements.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The **Iris dataset** is a classic in machine learning and is included with `scikit-learn`. It contains:
 
@@ -28,7 +21,7 @@ The **Iris dataset** is a classic in machine learning and is included with `scik
 
 ---
 
-## 🧠 What This Project Covers
+## What This Project Covers
 
 - Loading and exploring a dataset
 - Data visualization with `matplotlib`
@@ -41,18 +34,17 @@ The **Iris dataset** is a classic in machine learning and is included with `scik
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```bash
 iris-flower-classification/
-├── iris_logistic_regression.ipynb   # Jupyter notebook with full code
+├── Iris-Flower-Classification.ipynb   # Jupyter notebook with full code
 ├── README.md                        # Project documentation (this file)
-└── .gitignore                       # (Optional) Ignore virtual environment and temp files
 ````
 
 ---
 
-## 🔍 Example Output
+## Example Output
 
 ```
 Confusion Matrix:
@@ -72,7 +64,7 @@ Classification Report:
 
 ---
 
-## 🧪 Predicting a New Flower
+## Predicting a New Flower
 
 Example: Predicting for a flower with `[5.1, 3.5, 1.4, 0.2]`
 
@@ -82,7 +74,7 @@ Predicted Species: setosa
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * Python
 * Scikit-learn
@@ -92,7 +84,7 @@ Predicted Species: setosa
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone this repo:
 
@@ -107,24 +99,8 @@ Predicted Species: setosa
    jupyter notebook iris_logistic_regression.ipynb
    ```
 
----
-
-## 📬 Credits
+## Credits
 
 Dataset from `sklearn.datasets.load_iris()` — publicly available and commonly used for beginner classification tasks.
 
----
-
-> This is a great first step into the world of machine learning!
-
-```
-
----
-
-Let me know if you’d like:
-- This README saved as a downloadable `.md` file
-- A `GitHub` upload guide step-by-step
-- The notebook converted and zipped with the README
-
-I'm happy to package it for you!
 ```
